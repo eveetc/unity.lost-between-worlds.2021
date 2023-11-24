@@ -4,6 +4,10 @@ Before ChatGPT: A Journey Through Time
 ## Project Overview
 "Lost Between Worlds" is an adventure Unity game developed for Entertainment Computing at the University of Bremen, Germany, in 2021. It's a story of memory, discovery, and the choices we make, all unfolding in an immersive universe.
 
+![Screenshot](img/menu.png)
+![Screenshot](img/ingame-screenshot.png)
+
+
 ### Game Abstract
 The player awakens in an unfamiliar world, tasked with piecing together their lost memories through exploration and puzzle-solving across various planets.
 
@@ -84,8 +88,10 @@ Overall, the study revealed that while the game was largely appreciated for its 
 ## Development and Technical Specifications
 Developed using Unity, compatible with Linux, Windows, and Mac platforms.
 
+
 ### Internal Project Link
-[Complete Game Design Document](link-to-your-document)
+[Complete Game Design Document](https://github.com/eveetc/unity.lost-between-worlds.2021/blob/main/Game_Design_Document.pdf)
+
 
 ## Credits and Acknowledgements
 - University of Bremen, Entertainment Computing, 2021
