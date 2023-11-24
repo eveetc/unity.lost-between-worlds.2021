@@ -92,7 +92,6 @@ Developed using Unity, compatible with Linux, Windows, and Mac platforms.
 ### Internal Project Link
 [Complete Game Design Document](https://github.com/eveetc/unity.lost-between-worlds.2021/blob/main/Game_Design_Document.pdf)
 
-
 ## Credits and Acknowledgements
 - University of Bremen, Entertainment Computing, 2021
 
